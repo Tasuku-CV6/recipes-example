@@ -1,6 +1,6 @@
 # recipes list
 
-list of ingredients 
+list of ingredients: Everything is listed here
 Flour
 Egg
 Baking soda
