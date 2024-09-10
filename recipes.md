@@ -3,7 +3,7 @@
 Ingredients list: Not all Igrendients are here
 Flour
 Egg
-Baking soda. I actually do think we need it
+Baking soda. I don't think we need it
 Milk. Cows drink milk
 Icing. I like snowbaording
 sauce. I don't like sauce
