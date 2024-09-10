@@ -1,8 +1,8 @@
 # recipes list
 
 Ingredients list: Not all Igrendients are here
-Flour. Flour isn't actually spelled flower
-Egg. chickens can actually run without thier heads
+Flour. Flour is spelled flower
+Egg. chickens can't run without a head
 Baking soda. I don't think we need it
 Milk. Cows drink milk
 Icing. I like snowbaording
